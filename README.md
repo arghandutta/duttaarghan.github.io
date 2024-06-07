@@ -1,2 +1,2 @@
-# arghandutta.github.io
+# duttaarghan.github.io
 Personal Website
